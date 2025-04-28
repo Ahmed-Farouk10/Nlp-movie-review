@@ -1,2 +1,2 @@
 # Nlp-movie-review
-LSTM , RNN NLP model of movie review
+Sentiment Analysis (LSTM , RNN NLP model of movie review)
